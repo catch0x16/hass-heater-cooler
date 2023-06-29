@@ -1,1 +1,1 @@
-# hass-heater-cooler
+# hass-kumo-heater-cooler
