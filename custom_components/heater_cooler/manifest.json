@@ -2,7 +2,7 @@
     "domain": "heater_cooler",
     "name": "HeaterCooler",
     "codeowners": ["@catch0x16"],
-    "documentation": "https://github.com/catch0x16/hass-kumo-heater-cooler",
+    "documentation": "https://github.com/catch0x16/hass-heater-cooler",
     "dependencies": [],
     "integration_type": "entity",
     "requirements": [],
